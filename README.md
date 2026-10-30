@@ -9,6 +9,12 @@ A PointNet model for classifying scanned point clouds as spheres, cones, cubes, 
 - Test-set evaluation with classification reports and confusion matrices.
 - Interactive 3D visualization and shape prediction.
 
+## Figures
+
+![Training and validation loss and accuracy curves](assets/training_curves.png)
+
+![Normalized confusion matrix for shape classification](assets/evaluation/confusion_matrix_normalized.png)
+
 ## Run
 
 ```bash
