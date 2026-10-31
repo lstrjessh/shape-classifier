@@ -59,4 +59,4 @@ Each file contains comma-separated X, Y, Z coordinates after three header lines.
 
 Checkpoints, training curves, metrics, and evaluation reports are written to `assets/`.
 
-[Related 3D scanner](https://github.com/lstrjessh/PID-Adaptive-Speed-Arduino-based-3D-Scanner-Using-an-IR-Analog-Distance-Sensor)
+[Related 3D scanner](https://github.com/lstrjessh/3d-scanner)
